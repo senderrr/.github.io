@@ -2,7 +2,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/senderrr/.github.io/master)
 
-Wieker-Alex-finalproject.ipynb: newest version with updated story telling and deleted commented cells
+Wieker-Alex-finalproject.ipynb: Newest notebook with updated story telling and deleted commented cells.
+
+Wieker-Alex-finalproject-part3.ipynb: Older notebook that includes commented cells, which were used to create aggregate csv files.
 
 
 The two datasets that I use for my visualizations were too large to upload to Github, so the files that I am reading into my visualizations are already processed and on GitHub. However, I recognize that users might desire to work with the original files, so I have uploaded them to box.
